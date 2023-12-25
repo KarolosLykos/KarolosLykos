@@ -4,12 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
+I’m a software engineer with a passion for developing performant, maintainable and testable code, focusing on backend technologies with Golang.
+
 * 🌍  I'm based in Athens, Greece
 * 🖥️  See my portfolio at [karoloslykos.com](http://karoloslykos.com)
 * 🚀  I'm currently working on [Hackertea](http://github.com/KarolosLykos/hackertea)
 * 🧠  I'm learning Kubernetes
 * 🤝  I'm open to collaborating on opensource Golang projects
-* 🤔  I’m looking for help with Terraform
 
 ### Skills
 
