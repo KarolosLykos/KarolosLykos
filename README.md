@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-** My name is Karolos Lykos. I'm an engineer experienced with front- and back-end technologies and frameworks, such as GO Node, Typescript and React.**
-=====================================================================================================================================
+**My name's Karolos. I'm an engineer experienced with front- and back-end technologies and frameworks, such as GO Node, Typescript and React**
 
 * 🌍  I'm based in Athens, Greece
 * 🖥️  See my portfolio at [karoloslykos.com](http://karoloslykos.com)
 * 🚀  I'm currently working on [Hackertea](http://github.com/KarolosLykos/hackertea)
+* 🌱  I use Arch with i3wm
 * 🧠  I'm learning Kubernetes
 * 🤝  I'm open to collaborating on opensource Golang projects
 
