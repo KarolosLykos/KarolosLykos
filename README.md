@@ -1,10 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Karolos Lykos
+### Hi there 👋
+
+** My name is Karolos Lykos. I'm an engineer experienced with front- and back-end technologies and frameworks, such as GO Node, Typescript and React.**
 =====================================================================================================================================
-
-Software Engineer
------------------
-
-I’m a software engineer with a passion for developing performant, maintainable and testable code, focusing on backend technologies with Golang.
 
 * 🌍  I'm based in Athens, Greece
 * 🖥️  See my portfolio at [karoloslykos.com](http://karoloslykos.com)
