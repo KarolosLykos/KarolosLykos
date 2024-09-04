@@ -16,6 +16,11 @@
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karoloslykos&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=karoloslykos&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karoloslykos&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karoloslykos&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karoloslykos&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### Socials
 
