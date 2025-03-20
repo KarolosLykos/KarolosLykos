@@ -2,7 +2,6 @@
 
 **My name's Karolos. I'm an engineer experienced with front- and back-end technologies and frameworks, such as GO Node, Typescript and React**
 
-* 🌍  I'm based in Athens, Greece
 * 🖥️  See my portfolio at [karoloslykos.com](http://karoloslykos.com)
 * 🚀  I'm currently working on [Hackertea](http://github.com/KarolosLykos/hackertea)
 * 🌱  I use Arch with i3wm
