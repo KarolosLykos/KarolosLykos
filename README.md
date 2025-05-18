@@ -4,7 +4,7 @@
 
 * 🖥️  See my portfolio at [karoloslykos.com](http://karoloslykos.com)
 * 🚀  I'm currently working on [Hackertea](http://github.com/KarolosLykos/hackertea)
-* 🌱  I use Arch with i3wm
+* 🌱  Linux user
 * 🧠  I'm learning Kubernetes, Zig
 * 🤝  I'm open to collaborating on opensource Golang projects
 
